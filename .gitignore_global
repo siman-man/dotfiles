@@ -1,0 +1,6 @@
+/.idea
+
+### Ignore bundler config
+.bundle-ci/
+.bundle/
+vendor/
