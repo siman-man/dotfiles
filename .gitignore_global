@@ -4,3 +4,6 @@
 .bundle-ci/
 .bundle/
 vendor/
+
+### Ignore macOSX file
+.DS_Store
