@@ -1,0 +1,2 @@
+IRB.conf[:SAVE_HISTORY] = 10000
+IRB.conf[:EVAL_HISTORY] = 100
